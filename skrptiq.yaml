@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "d2628bf7-f6e5-4683-8cc3-d6cdedd33356"
+id: "508a4431-d089-41f5-ad9e-eb10b7f6d03a"
 name: "content-repurposing"
 display_name: "Content Repurposing"
 description: "Transforms a single piece of content into multiple formats for different platforms"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
